@@ -1,0 +1,315 @@
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    text-align: center;
+    padding-left: 50px;
+}
+#hero{
+    background-color:#f7b6118a;
+   
+}
+#row1{
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+} 
+#row1 h1{
+    font-size: 55px;
+}
+#row1 p{
+    font-size: 18px;
+}
+.btn{
+    font-size: 20px;
+    border: 2px solid white;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 20px;
+    background-color: white;
+}
+.btttn{
+    font-size: 20px;
+    border: 2px solid white;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 60px;
+    
+}
+
+#Carpet{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 60px;
+}
+#row2 h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+#image{
+    background-color:rgba(218, 165, 32, 0.548) ;
+}
+#Classic{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 30px;
+}
+.heading-with-lines {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .heading-with-lines::before,
+  .heading-with-lines::after {
+    content: '';
+    width: 150px;
+    border-bottom: 2px solid #000;
+    margin: 0 10px;
+  }
+.card-body{
+    text-align: center;
+    padding-bottom: 1px;
+   
+}
+#button1{
+    background-color:rgba(218, 165, 32, 0.692) ;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#button2{
+    
+    font-size: 20px;
+    
+}
+.load{
+    background-color:rgba(218, 165, 32, 0.692) ;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px 30px;
+    border: 2px solid rgba(218, 165, 32, 0.692);
+    border-radius: 10px;
+    
+}
+.load1{
+    padding-top: 35px;
+    text-align: center;
+}
+.load2{
+    padding-top: 35px;
+   
+}
+
+#Vintage{
+    padding-bottom: 30px;
+}
+#HISTORIA{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 30px;
+}
+#ARCADIA{
+    padding-bottom: 30px;
+}
+#Shop{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 30px;
+}
+#Shop h2{
+     font-size: 45px;
+     font-weight: bold;
+}
+#Carpetby p{
+    font-size: 20px;
+}
+#Carpetby{
+padding-bottom: 80px;
+}
+#our{
+    background-color:rgba(218, 165, 32, 0.692) ;
+    padding-bottom: 80px;
+}
+#ourblog{
+    padding-bottom: 80px;
+    
+}
+.bordered-box {
+    border: 1px solid white;
+    padding: 10px;
+   
+  }
+  
+  .bordered-box img {
+    width: 100%;
+    height: 80%;
+  }
+  
+  .hide-overflow {
+    overflow: hidden;
+  }
+  #blogg{
+    padding-left: 10px;
+  }
+#ourLat1{
+    padding-bottom: 60px;
+    
+}
+#ourLat2{
+    border-radius: 10px;
+    
+}
+.custom-box {
+    border: 2px solid rgba(255, 255, 255, 0.788); 
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px; 
+    background-color:rgba(255, 255, 255, 0.788); 
+    box-sizing: border-box; 
+}
+.outer-box {
+    border: 2px solid rgba(255, 255, 255, 0.788); 
+    border-radius: 10px;
+    height: 280px ;   
+    }
+  #para{
+    font-size: 18px;
+  }
+  #bttn{
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px 30px;
+    background-color:rgba(255, 217, 0, 0.116);
+    border: 2px solid goldenrod;
+  }
+#we{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 50px;
+}
+#we1{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    background-color:rgba(218, 165, 32, 0.596) ;  
+}
+#we1 p{
+    font-size: 20px;
+}
+#we2{
+    padding-left: 40px;
+  }
+#we2 h4{
+    font-size: 30px;
+    font-weight: bold;
+}
+#we2 p{
+    font-size: 20px;
+}
+#why{
+    padding-bottom: 30px;
+}
+#why1 h3{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 22px;
+}
+#con1{
+    border: 2px solid black;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+    background-color:rgba(218, 165, 32, 0.596) ;  
+    border-radius: 10px;
+    width: 600px;
+}
+#weo{
+    background-color: black;
+    padding-bottom: 40px;
+}
+#weo h4{
+    font-size: 35px;
+    font-weight: bold;
+}
+#weo p{
+    font-size: 20px;
+}
+#Reviews{
+    padding-bottom: 40px;
+}
+#Fre{
+    background-color: rgba(128, 128, 128, 0.144);
+    padding-bottom: 40px;
+}
+#fre1{
+    background-color:rgba(218, 165, 32, 0.596) ; 
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#fre2{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#fre2 textarea{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+#fre3 input{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.form-signup h1{
+    padding-left: 60px;
+}
+#blog1{
+    padding-top: 100px;
+    font-size: 20px;
+}
+#blog1 h4{
+    font-size: 30px;
+}
+#contact{
+    background-color:rgba(218, 165, 32, 0.596) ;
+    padding-bottom: 50px;
+    padding-top: 10px; 
+}
+#contact p{
+    font-size: 20px;
+}
+#last{
+    padding-top: 40px;
+    color: white;
+    background-color: black;
+    padding-bottom: 40px;
+}
+#footer{
+    text-align: center;
+    background-color:rgba(218, 165, 32, 0.596) ;
+}
+.accordion-button::after{
+    background-image: url(file-plus-fill.svg);
+    
+}
+#ajman{
+    justify-content: center;
+    
+}
+#ajman1{
+    border: 2px solid rgba(218, 165, 32, 0.596);
+   margin: 10px;
+   width: 200px;
+   height: 50px;
+   text-align: center;
+   padding-top: 7px;
+   border-radius: 10px;
+   font-size: 20px;
+   font-weight: bold;
+   background-color:rgba(218, 165, 32, 0.596) ;
+}
