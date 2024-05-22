@@ -291,7 +291,7 @@ padding-bottom: 80px;
 }
 #footer{
     text-align: center;
-    background-color: black
+    background-color:rgba(218, 165, 32, 0.596) ;
 }
 .accordion-button::after{
     background-image: url(file-plus-fill.svg);
